@@ -20,7 +20,7 @@ export const profile = {
   tagline:
     "I build scalable, high-performance web products — from polished React UIs to event-driven Node.js backends — with a focus on clean architecture and measurable impact.",
   about: [
-    "I'm a full-stack engineer with 1.5+ years of experience modernizing enterprise applications at Korn Ferry (via iSpace). I move comfortably between pixel-perfect React/TypeScript UIs and modular NestJS/Node.js services backed by PostgreSQL, RabbitMQ, and Kafka.",
+    "I'm a full-stack engineer with 2+ years of experience modernizing enterprise applications at Korn Ferry (via iSpace). I move comfortably between pixel-perfect React/TypeScript UIs and modular NestJS/Node.js services backed by PostgreSQL, RabbitMQ, and Kafka.",
     "What I care about: shipping clean, maintainable code that solves real business problems, reducing production incidents, and turning Figma designs into smooth, accessible interfaces. I love event-driven architecture, sensible state management, and well-typed APIs.",
   ],
   socials: {
@@ -37,7 +37,7 @@ export const profile = {
 };
 
 export const stats = [
-  { label: "Years of experience", value: "1.5+" },
+  { label: "Years of experience", value: "2+" },
   { label: "React pages shipped", value: "15+" },
   { label: "Personal projects", value: "5+" },
   { label: "Hackathon wins", value: "1st" },
